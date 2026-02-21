@@ -1,4 +1,4 @@
-Md id="v5b5j0"
+
 **Auteur: **AGBANDA Magnouréwa Didier
 **Date: **Février 2026
 **Sujet: inégalité i^p+(i+1)^p<(i+2)^p
